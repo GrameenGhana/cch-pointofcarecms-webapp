@@ -1,6 +1,6 @@
-# SB Admin v2.0 rewritten in Laravel
+# Point of Care Content Management System written in Laravel
 
-This project is a part of the famous Free Admin Bootstrap Theme SB Admin v2.0 to Laravel Theme.
+Built using the SB Admin theme
 
 Find out more [Free Lareval Themes at StartLaravel.com](http://www.startlaravel.com/)..
 
